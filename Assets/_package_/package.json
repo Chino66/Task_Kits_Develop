@@ -1,0 +1,8 @@
+{
+  "name": "com.chino.task.kits",
+  "displayName": "Task Kits",
+  "version": "0.0.0",
+  "unity": "2020.1",
+  "description": "Task拓展工具",
+  "type": "lib"
+}
